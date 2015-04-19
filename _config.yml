@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Zhong's Blog
+title: Zhong's Pages
 subtitle:
 description:
 author: Zhong
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zhrren.github.io
+url: http://zhrren.github.io/Pages
 root: /Pages
 permalink: :year/:month/:day/:title/
 permalink_defaults:
